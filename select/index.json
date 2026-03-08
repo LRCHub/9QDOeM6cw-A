@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "未来未来",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-08T16:48:09.988838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来未来",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/01_未来未来_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来未来",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/02_未来未来_SPITZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来未来",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_未来未来_スピッツ.txt"
+    }
+  ]
+}
